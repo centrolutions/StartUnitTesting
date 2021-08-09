@@ -44,13 +44,13 @@ namespace TheBasics
         // for words that start with a vowel, add "way" to the end of the word
         //
         // example: the quick brown fox jumped over the dog
-        // becomes: ethay ickquay ownbray oxfay umpedjay overway ethay ogday
+        // becomes: ethay uickqay ownbray oxfay umpedjay overway ethay ogday
         //
         //
         // extra credit: handle punctuation and capitalization correctly so:
         //  The quick, brown fox jumped over the dog.
         // translates to:
-        //  Ethay ickquay, ownbray oxfay umpedjay overway ethay ogday.
+        //  Ethay uickqay, ownbray oxfay umpedjay overway ethay ogday.
         static void RunPigLatin()
         {
             Console.WriteLine("Type a sentence followed by [Enter].");
