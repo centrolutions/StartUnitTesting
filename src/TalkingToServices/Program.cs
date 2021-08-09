@@ -7,7 +7,7 @@ namespace TalkingToServices
     {
         static void Main(string[] args)
         {
-            var starWars = new StarWars();
+            var starWars = new StarWars(new Repository<Film>());
             var allFilms = starWars.GetAllFilms();
 
             foreach (var film in allFilms)

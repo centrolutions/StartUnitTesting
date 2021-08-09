@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TalkingToServices", "Talkin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheBasicsTests", "TheBasicsTests\TheBasicsTests.csproj", "{CC6D451B-953E-4477-8442-5612E34FFAD3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TalkingToServicesTests", "TalkingToServicesTests\TalkingToServicesTests.csproj", "{39258972-A021-49B7-8010-799CCF4F4975}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{CC6D451B-953E-4477-8442-5612E34FFAD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC6D451B-953E-4477-8442-5612E34FFAD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC6D451B-953E-4477-8442-5612E34FFAD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39258972-A021-49B7-8010-799CCF4F4975}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39258972-A021-49B7-8010-799CCF4F4975}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39258972-A021-49B7-8010-799CCF4F4975}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39258972-A021-49B7-8010-799CCF4F4975}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
